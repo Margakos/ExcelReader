@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Excel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Excel_jar/Excel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
